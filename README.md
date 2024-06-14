@@ -42,13 +42,13 @@ Users should be able to:
 
 During working on this project I learn how to use fonts, that was downloaded on my local machine.
 
-````
-```css
+```
+css
 @font-face {
   font-family: "figtree";
   src: url("./assets/fonts/Figtree-VariableFont_wght.ttf");
 }
-````
+```
 
 ## Author
 
