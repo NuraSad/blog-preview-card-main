@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/NuraSad/blog-preview-card-main)
-- Live Site URL: [Add live site URL here](https://nurasad.github.io/blog-preview-card-main/)
+- Solution URL: [Github Repo](https://github.com/NuraSad/blog-preview-card-main)
+- Live Site URL: [Demo](https://nurasad.github.io/blog-preview-card-main/)
 
 ## My process
 
